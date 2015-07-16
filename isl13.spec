@@ -1,5 +1,5 @@
 %define major	13
-%define libname	%mklibname %{name} %{major}
+%define libname	%mklibname isl %{major}
 %define devname	%mklibname %{name} -d
 %define staticname %mklibname %{name} -s -d
 
