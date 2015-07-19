@@ -6,7 +6,7 @@
 Summary:	Old version of the Integer Set Library
 Name:		isl13
 Version:	0.14.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		System/Libraries
 Url:		git://repo.or.cz/isl.git
