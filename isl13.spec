@@ -68,7 +68,7 @@ Static library for the isl Integer Set Library
 
 %prep
 %setup -qn isl-%{version}
-%apply_patches
+%autopatch -p1
 autoreconf -fi
 
 %build
